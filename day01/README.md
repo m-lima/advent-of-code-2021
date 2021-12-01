@@ -1,7 +1,6 @@
-# BQN
-https://mlochbaum.github.io/BQN/index.html
-
 # Running
+With CBQN installed, run:
 ```bash
-$ bqn day1.bqn
+$ bqn part1.bqn
+$ bqn part2.bqn
 ```
