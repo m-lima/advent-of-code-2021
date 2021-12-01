@@ -1,4 +1,7 @@
 ToNumber ← { +´×˝(𝕩-'0')≍⌽10⋆¨↕≠𝕩 }
-i ← ToNumber¨•file.Lines"./input.txt"
+Load ← ToNumber ¨ •FLines
+Pairs ← 1↓˘»⊸≍˜
+Increases ← <˝
+Sum ← +´
 
-•Show +´1↓>˝i≍»i
+•Show Sum Increases Pairs Load "./input.txt"
