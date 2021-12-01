@@ -1,5 +1,5 @@
 ToNumber ← { +´×˝(𝕩-'0')≍⌽10⋆¨↕≠𝕩 }
-Load ← ToNumber ¨ •FLines
+Load ← ToNumber¨•FLines
 Pairs ← 1↓˘»⊸≍˜
 Increases ← <˝
 Sum ← +´
