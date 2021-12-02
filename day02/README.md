@@ -2,13 +2,13 @@
 
 With GHC installed, compile with:
 ```bash
-$ ghc -odir build -hidir build -o build/part1 part1.hs
-$ ghc -odir build -hidir build -o build/part1 part2.hs
+$ mkdir build
+$ ghc -odir build/t1 -hidir build/t1 part1.hs -o part1
+$ ghc -odir build/t2 -hidir build/t2 part2.hs -o part2
 ```
-Alternatively, the `build.sh` script can be used
 
 Then run with:
 ```bash
-$ ./build/part1
-$ ./build/part2
+$ ./part1
+$ ./part2
 ```
