@@ -3,7 +3,9 @@ const std = @import("std");
 pub const Card = [5][5]u8;
 pub const Input = struct {
     draws: []u8,
+    order: []u8,
     cards: []Card,
+
     alloc: *std.mem.Allocator,
 
     const Self = @This();
@@ -13,6 +15,17 @@ pub const Input = struct {
         self.alloc.free(self.cards);
     }
 };
+
+fn extract_order(alloc: *std.mem.Allocator, draws: []u8) !std.ArrayList(u8) {
+    var order = try std.ArrayList(u8).initCapacity(alloc, draws.len);
+
+    try order.appendSlice(draws);
+    for (draws) |d, i| {
+        order.items[d] = @intCast(u8, i);
+    }
+
+    return order;
+}
 
 fn load_draws(alloc: *std.mem.Allocator, stream: anytype) !std.ArrayList(u8) {
     var draws = std.ArrayList(u8).init(alloc);
@@ -92,5 +105,7 @@ pub fn load(alloc: *std.mem.Allocator, path: []const u8) !Input {
         try cards.append(card);
     }
 
-    return Input{ .draws = draws.toOwnedSlice(), .cards = cards.toOwnedSlice(), .alloc = alloc };
+    var order = try extract_order(alloc, draws.items);
+
+    return Input{ .draws = draws.toOwnedSlice(), .cards = cards.toOwnedSlice(), .order = order.toOwnedSlice(), .alloc = alloc };
 }
