@@ -6,6 +6,7 @@
  - **Day 2:** [Haskell](#haskell)
  - **Day 3:** [C](#c)
  - **Day 4:** [Zig](#zig) ([Perl](https://www.perl.org/) attempt was aborted)
+ - **Day 6:** [Java](#java)
  - **Day 5:** [??](#??)
 
 # Resources
@@ -26,5 +27,9 @@ Does it really need an introduction? Well, here's the [wiki](https://en.wikipedi
 - [Overview](https://ziglang.org/)
 - [Download](https://ziglang.org/download/)
 - [Documentation](https://ziglang.org/documentation/master/)
+
+### Java
+- [Overview](https://www.java.com/)
+- [Documentation](https://docs.oracle.com/en/java/javase/17/index.html)
 
 ### ??
