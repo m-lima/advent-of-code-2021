@@ -6,8 +6,9 @@
  - **Day 2:** [Haskell](#haskell)
  - **Day 3:** [C](#c)
  - **Day 4:** [Zig](#zig) ([Perl](https://www.perl.org/) attempt was aborted)
- - **Day 6:** [Java](#java)
- - **Day 5:** [??](#??)
+ - **Day 5:** [Java](#java)
+ - **Day 6:** [Odin](#odin)
+ - **Day 7:** [??](#??)
 
 # Resources
 ### BQN
@@ -31,5 +32,10 @@ Does it really need an introduction? Well, here's the [wiki](https://en.wikipedi
 ### Java
 - [Overview](https://www.java.com/)
 - [Documentation](https://docs.oracle.com/en/java/javase/17/index.html)
+
+### Odin
+- [Overview](https://odin-lang.org/)
+- [Download](https://github.com/odin-lang/Odin/releases/latest)
+- [Documentation](https://github.com/odin-lang/Odin/wiki)
 
 ### ??
