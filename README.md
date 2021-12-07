@@ -8,7 +8,8 @@
  - **Day 4:** [Zig](#zig) ([Perl](https://www.perl.org/) attempt was aborted)
  - **Day 5:** [Java](#java)
  - **Day 6:** [Odin](#odin)
- - **Day 7:** [??](#??)
+ - **Day 7:** [Go](#go)
+ - **Day 8:** [??](#??)
 
 # Resources
 ### BQN
@@ -37,5 +38,10 @@ Does it really need an introduction? Well, here's the [wiki](https://en.wikipedi
 - [Overview](https://odin-lang.org/)
 - [Download](https://github.com/odin-lang/Odin/releases/latest)
 - [Documentation](https://github.com/odin-lang/Odin/wiki)
+
+### Go
+- [Overview](https://go.dev/)
+- [Download](https://go.dev/dl/)
+- [Documentation](https://pkg.go.dev/std)
 
 ### ??
