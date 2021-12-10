@@ -10,6 +10,7 @@
  - **Day 6:** [Odin](#odin)
  - **Day 7:** [Go](#go)
  - **Day 8:** [Bash](#bash)
+ - **Day 9:** [Python](#python)
 
 # Resources
 ### BQN
@@ -48,3 +49,8 @@ Does it really need an introduction? Well, here's the [wiki](https://en.wikipedi
 - [Overview](https://www.gnu.org/software/bash/)
 - [Download](https://ftp.gnu.org/gnu/bash/)
 - [Documentation](https://www.gnu.org/software/bash/manual/bash.html)
+
+### Python
+- [Overview](https://www.python.org/)
+- [Download](https://www.python.org/downloads/)
+- [Documentation](https://docs.python.org/3/)
