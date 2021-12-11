@@ -11,9 +11,9 @@ proc pop(stack: var seq[char]): char =
   stack.delete(high(stack))
   c
 
-var stack: seq[char]
 var points: uint = 0
 for line in lineByLine():
+  var stack: seq[char]
   for c in line:
     case c:
       of '(', '[', '{', '<':
