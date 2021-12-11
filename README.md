@@ -11,6 +11,7 @@
  - **Day 7:** [Go](#go)
  - **Day 8:** [Bash](#bash)
  - **Day 9:** [Python](#python)
+ - **Day 10:** [Nim](#nim)
 
 # Resources
 ### BQN
@@ -54,3 +55,8 @@ Does it really need an introduction? Well, here's the [wiki](https://en.wikipedi
 - [Overview](https://www.python.org/)
 - [Download](https://www.python.org/downloads/)
 - [Documentation](https://docs.python.org/3/)
+
+### Nim
+- [Overview](https://nim-lang.org/)
+- [Download](https://nim-lang.org/install.html)
+- [Documentation](https://nim-lang.org/documentation.html)
