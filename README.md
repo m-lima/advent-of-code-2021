@@ -12,6 +12,7 @@
  - **Day 8:** [Bash](#bash)
  - **Day 9:** [Python](#python)
  - **Day 10:** [Nim](#nim)
+ - **Day 11:** [Rust](#rust)
 
 # Resources
 ### BQN
@@ -60,3 +61,8 @@ Does it really need an introduction? Well, here's the [wiki](https://en.wikipedi
 - [Overview](https://nim-lang.org/)
 - [Download](https://nim-lang.org/install.html)
 - [Documentation](https://nim-lang.org/documentation.html)
+
+### Rust
+- [Overview](https://www.rust-lang.org/)
+- [Download](https://rustup.rs/)
+- [Documentation](https://doc.rust-lang.org/)
