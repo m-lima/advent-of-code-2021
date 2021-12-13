@@ -13,6 +13,7 @@
  - **Day 9:** [Python](#python)
  - **Day 10:** [Nim](#nim)
  - **Day 11:** [Rust](#rust)
+ - **Day 12:** [Clojure](#clojure)
 
 # Resources
 ### BQN
@@ -66,3 +67,8 @@ Does it really need an introduction? Well, here's the [wiki](https://en.wikipedi
 - [Overview](https://www.rust-lang.org/)
 - [Download](https://rustup.rs/)
 - [Documentation](https://doc.rust-lang.org/)
+
+### Clojure
+- [Overview](https://clojure.org/)
+- [Download](https://clojure.org/guides/getting_started)
+- [Documentation](https://clojuredocs.org/)
