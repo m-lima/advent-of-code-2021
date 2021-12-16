@@ -81,7 +81,7 @@ Does it really need an introduction? Well, here's the [wiki](https://en.wikipedi
 - [Documentation](https://docs.ruby-lang.org/en/)
 
 ### Javascript
-Using Node.js
+_Using Node.js_
 - [Overview](https://nodejs.org/)
 - [Download](https://nodejs.org/en/download/)
 - [Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
