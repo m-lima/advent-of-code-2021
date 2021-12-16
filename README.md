@@ -15,6 +15,7 @@
  - **Day 11:** [Rust](#rust)
  - **Day 12:** [Clojure](#clojure)
  - **Day 13:** [Ruby](#ruby)
+ - **Day 14:** [Javascript](#javascript)
 
 # Resources
 ### BQN
@@ -78,3 +79,9 @@ Does it really need an introduction? Well, here's the [wiki](https://en.wikipedi
 - [Overview](https://www.ruby-lang.org/)
 - [Download](https://www.ruby-lang.org/en/downloads/)
 - [Documentation](https://docs.ruby-lang.org/en/)
+
+### Javascript
+Using Node.js
+- [Overview](https://nodejs.org/)
+- [Download](https://nodejs.org/en/download/)
+- [Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
