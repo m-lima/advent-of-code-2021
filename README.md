@@ -14,6 +14,7 @@
  - **Day 10:** [Nim](#nim)
  - **Day 11:** [Rust](#rust)
  - **Day 12:** [Clojure](#clojure)
+ - **Day 13:** [Ruby](#ruby)
 
 # Resources
 ### BQN
@@ -72,3 +73,8 @@ Does it really need an introduction? Well, here's the [wiki](https://en.wikipedi
 - [Overview](https://clojure.org/)
 - [Download](https://clojure.org/guides/getting_started)
 - [Documentation](https://clojuredocs.org/)
+
+### Ruby
+- [Overview](https://www.ruby-lang.org/)
+- [Download](https://www.ruby-lang.org/en/downloads/)
+- [Documentation](https://docs.ruby-lang.org/en/)
