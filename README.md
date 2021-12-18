@@ -16,6 +16,7 @@
  - **Day 12:** [Clojure](#clojure)
  - **Day 13:** [Ruby](#ruby)
  - **Day 14:** [Javascript](#javascript)
+ - **Day 15:** [Elixir](#elixir)
 
 # Resources
 ### BQN
@@ -85,3 +86,9 @@ _Using Node.js_
 - [Overview](https://nodejs.org/)
 - [Download](https://nodejs.org/en/download/)
 - [Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### Elixir
+_Using Node.js_
+- [Overview](https://elixir-lang.org/)
+- [Download](https://elixir-lang.org/install.html)
+- [Documentation](https://hexdocs.pm/elixir/)
