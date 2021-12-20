@@ -45,7 +45,7 @@ nodes = [ 0 | File.read!("input.txt")
   |> Enum.map(&Aoc.to_integer/1)]
 
 last = Enum.count(nodes) - 1
-len = Enum.count(nodes) |> :math.sqrt |> Kernel.round
+len = Enum.count(nodes) |> :math.sqrt |> round
 unvisited = 0..last |> MapSet.new
 visited = MapSet.new()
 risks = 0..last |> Enum.map(fn
