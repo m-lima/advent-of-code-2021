@@ -17,6 +17,7 @@
  - **Day 13:** [Ruby](#ruby)
  - **Day 14:** [Javascript](#javascript)
  - **Day 15:** [Elixir](#elixir)
+ - **Day 16:** [C++](#c-1)
 
 # Resources
 ### BQN
@@ -88,7 +89,11 @@ _Using Node.js_
 - [Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Elixir
-_Using Node.js_
 - [Overview](https://elixir-lang.org/)
 - [Download](https://elixir-lang.org/install.html)
 - [Documentation](https://hexdocs.pm/elixir/)
+
+### C++
+- [Overview](https://en.wikipedia.org/wiki/C%2B%2B)
+- [Download](https://releases.llvm.org/download.html)
+- [Documentation](https://en.cppreference.com/)
