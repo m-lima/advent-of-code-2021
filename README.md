@@ -18,6 +18,7 @@
  - **Day 14:** [Javascript](#javascript)
  - **Day 15:** [Elixir](#elixir)
  - **Day 16:** [C++](#c-1)
+ - **Day 17:** [V](#v)
 
 # Resources
 ### BQN
@@ -97,3 +98,8 @@ _Using Node.js_
 - [Overview](https://en.wikipedia.org/wiki/C%2B%2B)
 - [Download](https://releases.llvm.org/download.html)
 - [Documentation](https://en.cppreference.com/)
+
+### V
+- [Overview](https://vlang.io/)
+- [Download](https://github.com/vlang/v/releases/latest)
+- [Documentation](https://github.com/vlang/v/blob/master/doc/docs.md)
